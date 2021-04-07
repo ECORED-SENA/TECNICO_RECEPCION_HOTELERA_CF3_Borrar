@@ -109,20 +109,55 @@
             .col
                 h4.mb-0 Necesidades de autorrealización:
                 p sólo puede ser satisfecho una vez cuando todas las demás necesidades han sido alcanzadas de manera suficiente. Es la sensación de haber llegado al éxito personal.
-                
 
-
-
-                    
-
-               
+    p Utilizando este modelo de pirámide las empresas conocen los comportamientos de los individuos y por lo tanto lo que motiva a los clientes a comprar, así se utiliza como instrumento para que compren lo que se vende cubriendo y satisfaciendo una necesidad y no vayan a la competencia.
     
-    
+    .row.justify-content-center.align-items-center.mt-5
+        .col
+          .div.div-gradient-1
+            .div.c-card-
+          
+            p.text-center Philip Kotler (1983) define las necesidades como <b> “una sensación de carencia de algo, un estado fisiológico o psicológico".</b> 
+            p.text-center Necesidad, deseo y la demanda turística. 
+        .col
 
+          p Ya entendemos a que se refiere “la necesidad”, el deseo se conoce como la forma en que una persona expresa la manera de satisfacer una necesidad en la que inciden varios factores como las características personales, su educación y creencias, entorno cultural social y ambiental, los estímulos de marketing y su capacidad adquisitiva.
 
+          p Un deseo se convierte en demanda cuando una persona, canaliza el deseo para realizar una petición concreta de un producto.
 
+          p La demanda turística es el conjunto de bienes y servicios que los turistas están dispuesto a adquirir en un determinado destino, incluye el consumo y la experiencia de lugares, su motivación principal recae en el destino turístico, entre los factores que influyen en esta demanda son el poder económico, disponibilidad de tiempo y otros factores que le motiven.
 
+        .col-auto.mt-5 
+                    img.img-a(src="@/assets/curso/images/pages/ilustraciones/img8.png").img-fluid
+        
+        p.mt-5 La variación de los precios en relación con destinos y servicios similares, la falta de opciones de transporte y la diversidad de productos turísticos, entre otros, pueden afectar la demanda turística por un determinado destino.
 
+        p Schnarch Kirberg, Alejandro. (2017) Marketing de Fidelización.
+
+    #t_1_4.pb-2.h2.mt-5 1.4 Requerimientos y solicitudes especiales
+
+        p.mt-3 El personal en los alojamientos siempre está dispuesto a enfrentar determinadas situaciones especiales en las cuales sus decisiones son la clave para resolver eficientemente los problemas generados.
+
+    .row.justify-content-center.mb-5
+        .col-6.col-md-6 
+          .col-6
+            img(src="@/assets/curso/images/pages/ilustraciones/ico1.png", alt="", style="width:60px; display:block; margin:auto 0;")
+              p.text-center Algunas posibles situaciones, entre otras.
+          .col-6
+            img(src="@/assets/curso/images/pages/ilustraciones/ico2.png", alt="", style="width:60px; display:block; margin:auto 0;")
+              p.text-center Trato personalizado con el huésped.
+          .col-6
+            img(src="@/assets/curso/images/pages/ilustraciones/ico3.png", alt="", style="width:60px; display:block; margin:auto 0;")
+              p.text-center Flexibilidad en los horarios de entrada y salida.    
+          .col-6
+            img(src="@/assets/curso/images/pages/ilustraciones/ico4.png", alt="", style="width:60px; display:block; margin:auto 0;")
+              p.text-center Ubicación del establecimiento y fácil reserva.
+          .col-6
+            img(src="@/assets/curso/images/pages/ilustraciones/ico5.png", alt="", style="width:60px; display:block; margin:auto 0;")
+              p.text-center Salas de juntas para optimizar las reuniones de negocios.
+          .col-6
+            img(src="@/assets/curso/images/pages/ilustraciones/ico6.png", alt="", style="width:60px; display:block; margin:auto 0;")
+              p.text-center Conectividad inalámbrica o wifi.
 
 
 
