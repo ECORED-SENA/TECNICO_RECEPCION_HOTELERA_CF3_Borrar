@@ -114,10 +114,10 @@
     
     .row.justify-content-center.align-items-center.mt-5
         .col
-          .div.div-gradient-1
+          div.div-gradient-1
             .div.c-card-
           
-            p.text-center Philip Kotler (1983) define las necesidades como <b> “una sensación de carencia de algo, un estado fisiológico o psicológico".</b> 
+            p.text-center.h5 Philip Kotler (1983) define las necesidades como <b> “una sensación de carencia de algo, un estado fisiológico o psicológico".</b> 
             p.text-center Necesidad, deseo y la demanda turística. 
         .col
 
