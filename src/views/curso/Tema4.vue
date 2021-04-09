@@ -10,7 +10,7 @@
                   .col-auto 
                       img.img-a(src="@/assets/curso/images/pages/ilustraciones/img33.png").img-fluid
 
-      #t_4_1.pb-2.h2.mt-5 4.1 Tipos
+      #t_4_1.pb-1.h2.mt-5 4.1 Tipos
 
       p.mt-5 En el mundo actual y cambiante la negociación no es estática, por lo tanto podremos mencionar algunos tipos de negociación relevantes pero no únicos y definitivos, estar actualizados es una condición para ser efectivos en el momento de negociar. 
 

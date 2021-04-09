@@ -40,19 +40,19 @@
           p.mt-3 Las características fundamentales que diferencian a los servicios de los bienes y que debe tener en cuenta.
 
       .i-general-3
-        .div.div-gradient-3
+        div.div-gradient-3
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico7.png' alt="",style="width:70px; display:block; margin:auto 0;")
             .h1i.text-center.mt-2 #[strong Intangible.]
-        .div.div-gradient-3
+        div.div-gradient-3
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico8.png' alt="", style="width:70px; display:block; margin:auto 0;")
             .h1i.text-center.mt-2 #[strong Inseparabilidad.]
-        .div.div-gradient-3
+        div.div-gradient-3
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico9.png' alt="", style="width:70px; display:block; margin:auto 0;")
             .h1i.text-center.mt-2 #[strong Heterogeneidad.]
-        .div.div-gradient-3
+        div.div-gradient-3
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico10.png' alt="", style="width:70px; display:block; margin:auto 0;")
             .h1i.text-center.mt-2 #[strong Carácter perecedero.]

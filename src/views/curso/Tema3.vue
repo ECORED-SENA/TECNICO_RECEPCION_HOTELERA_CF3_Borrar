@@ -7,7 +7,7 @@
                   .col-auto 
                       img.img-a(src="@/assets/curso/images/pages/ilustraciones/img33.png").img-fluid
 
-      #t_3_1.pb-5.h2.mt-5 3.1 Definición
+      #t_3_1.pb-1.h2.mt-5 3.1 Definición
 
       p.mt-5 La comunicación es un proceso que consiste en la transmisión e intercambio de mensajes entre un emisor y un receptor. La palabra deriva del latín communicatĭo que significa compartir, participar en algo o poner en común.
       br

@@ -139,27 +139,27 @@
         p.mt-3 El personal en los alojamientos siempre está dispuesto a enfrentar determinadas situaciones especiales en las cuales sus decisiones son la clave para resolver eficientemente los problemas generados.
 
         .i-general-1
-          div.div-gradient-2
+          .div.div-gradient-2
             .div.c-card-2
               img.img-a.mb-2(src='@/assets/curso/images/pages/ilustraciones/ico1.png' alt="",style="width:100px; display:block; margin:auto 0;").img-float
               p.mt-4.p2 Algunas posibles situaciones, entre otras.
-          div.div-gradient-2 
+          .div.div-gradient-2 
             .div.c-card-2
               img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico2.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float 
               p.mt-4.p2 Trato personalizado con el huésped
-          div.div-gradient-2
+          .div.div-gradient-2
             .div.c-card-2
               img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico3.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float 
               p.mt-3.p2.mt-2 Flexibilidad en los horarios de entrada y salida.
-          div.div-gradient-2
+          .div.div-gradient-2
             .div.c-card-2
               img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico4.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float 
               p.mt-4.p2 Ubicación del establecimiento y fácil reserva.
-          div.div-gradient-2
+          .div.div-gradient-2
             .div.c-card-2
               img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico5.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float 
               p.mt-3.p2 Salas de juntas para optimizar las reuniones de negocios.
-          div.div-gradient-2
+          .div.div-gradient-2
             .div.c-card-2
               img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico6.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float
               p.mt-3.p1 Conectividad inalámbrica o wifi.
