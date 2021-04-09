@@ -86,19 +86,6 @@
                       a.p2(href="http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=296&pg=61", target="_blank") <span class="fa fa-text" aria-hidden="true"></span> leer aquí
 
 
-      #t_4_4.pb-5.h2 
-
-
-              
-      #t_4_5.mt-5.h2 
-      #t_4_6.pb-5.h2 
-      
-      
-
-
-
-
-
 
 
 </template>

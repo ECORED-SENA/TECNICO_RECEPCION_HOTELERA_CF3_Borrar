@@ -7,7 +7,7 @@
                   .col-auto 
                       img.img-a(src="@/assets/curso/images/pages/ilustraciones/img33.png").img-fluid
 
-      #t_3_1.pb-5.h2 3.1 Definición
+      #t_3_1.pb-5.h2.mt-5 3.1 Definición
 
       p.mt-5 La comunicación es un proceso que consiste en la transmisión e intercambio de mensajes entre un emisor y un receptor. La palabra deriva del latín communicatĭo que significa compartir, participar en algo o poner en común.
       br
@@ -71,7 +71,7 @@
                   h4.mb-0 Raúl Villanueva López (2017) Comunicación y atención al cliente en hostelería y turismo.
                       a.p2(href="http://www.ebooks7-24.com.bdigital.sena.edu.co/stage.aspx?il=&pg=&ed=", target="_blank") <span class="fa fa-text" aria-hidden="true"></span> leer aquí
 
-      #t_3_3.pb-5.h2 3.2. Tipos de comunicación.
+      #t_3_2.pb-5.h2 3.2. Tipos de comunicación.
       
 
       .card-deck

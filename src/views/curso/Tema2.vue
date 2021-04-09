@@ -216,8 +216,8 @@
       br
       p Los manuales de funciones y procedimientos así como los formatos, son herramientas útiles para el establecimiento de los estándares en el hotel.
 
-      #t_2_5.pb-5.h2 2.5 Protocolos 
-      .pb-2.h3.mt-5 2.5.1 Definición
+      #t_2_5.pb-2.h2.mt-3 2.5 Protocolos 
+      .pb-2.h3 2.5.1 Definición
 
       .jumbotron-4.mt-3
         .row.justify-content-center.align-items-center
@@ -319,9 +319,9 @@
                     img.img-a.mt-5(src="@/assets/curso/images/pages/ilustraciones/info.png").img-fluid
 
       p.mt-5 #[strong Protocolo empresarial]
-      p La estructura organizacional establece los protocolos a utilizar en cada una de las áreas respaldando con manuales de funciones y procedimientos.
+      p.mt-3 La estructura organizacional establece los protocolos a utilizar en cada una de las áreas respaldando con manuales de funciones y procedimientos.
 
-      #t_2_6.pb-5.h2 2.6 Cadena de valor
+      #t_2_6.pb-5.h2.mt-5 2.6 Cadena de valor
       
       .row.justify-content-center.align-items-center.mt-5
             
@@ -335,7 +335,7 @@
                 .col-auto 
                     img.img-a(src="@/assets/curso/images/pages/ilustraciones/img31.png").img-fluid
 
-      #t_2_7.pb-5.h2 2.7 Momentos de verdad
+      #t_2_7.pb-5.h2.mt-5 2.7 Momentos de verdad
       
       .row.justify-content-center.align-items-center
                 .col-auto

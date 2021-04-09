@@ -141,16 +141,16 @@
         .i-general-1
           div.div-gradient-2
             .div.c-card-2
-              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico1.png' alt="",style="width:100px; display:block; margin:auto 0;").img-float
+              img.img-a.mb-2(src='@/assets/curso/images/pages/ilustraciones/ico1.png' alt="",style="width:100px; display:block; margin:auto 0;").img-float
               p.mt-4.p2 Algunas posibles situaciones, entre otras.
           div.div-gradient-2 
             .div.c-card-2
               img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico2.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float 
-              p.mt-5.p2 Trato personalizado con el huésped
+              p.mt-4.p2 Trato personalizado con el huésped
           div.div-gradient-2
             .div.c-card-2
               img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico3.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float 
-              p.mt-3.p2 Flexibilidad en los horarios de entrada y salida.
+              p.mt-3.p2.mt-2 Flexibilidad en los horarios de entrada y salida.
           div.div-gradient-2
             .div.c-card-2
               img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico4.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float 
