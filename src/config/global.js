@@ -173,6 +173,99 @@ export const menuPrincipal = {
         },
       ],
     },
+    {
+      nombreRuta: 'tema4',
+      icono: 'far fa-file-alt',
+      numero: '4',
+      titulo: 'Negociación ',
+      desarrolloContenidos: true,
+      subMenu: [
+        {
+          icono: 'far fa-file-alt',
+          numero: '4.1',
+          titulo: 'Tipos',
+          hash: 't_4_1',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '4.2',
+          titulo: 'Etapas',
+          hash: 't_4_2',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '4.3',
+          titulo: 'Técnicas.',
+          hash: 't_4_3',
+        },
+      ],
+    },
+    {
+      nombreRuta: 'tema5',
+      icono: 'far fa-file-alt',
+      numero: '5',
+      titulo: 'Cotización',
+      desarrolloContenidos: true,
+      subMenu: [
+        {
+          icono: 'far fa-file-alt',
+          numero: '5.1',
+          titulo: 'Definición',
+          hash: 't_5_1',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '5.2',
+          titulo: 'Tipos',
+          hash: 't_5_2',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '5.3',
+          titulo: 'Procedimiento.',
+          hash: 't_5_3',
+        },
+      ],
+    },
+    {
+      nombreRuta: 'tema6',
+      icono: 'far fa-file-alt',
+      numero: '6',
+      titulo: 'Venta',
+      desarrolloContenidos: true,
+      subMenu: [
+        {
+          icono: 'far fa-file-alt',
+          numero: '6.1',
+          titulo: 'Definición',
+          hash: 't_6_1',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '6.2',
+          titulo: 'Técnicas',
+          hash: 't_6_2',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '6.3',
+          titulo: 'Políticas..',
+          hash: 't_6_3',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '6.4',
+          titulo: 'Manejo de objeciones',
+          hash: 't_6_4',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '6.5',
+          titulo: '6.5 Cierre de la venta',
+          hash: 't_6_5',
+        },
+      ],
+    },
   ],
   subMenu: [
     // {

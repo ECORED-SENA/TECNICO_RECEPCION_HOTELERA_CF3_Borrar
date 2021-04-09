@@ -14,45 +14,53 @@
       p Los elementos que participan son los siguientes:
 
        .jumbotron-5.mt-5
-        .row.justify-content-center.align-items-center
-              .col
-                  img.number(src='@/assets/curso/images/pages/ilustraciones/ico21.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
-                  p.mt-4.text-center Emisor: Es quien transmite el mensaje.
+        .row.justify-content-left
+          .col-auto
+            img.number(src='@/assets/curso/images/pages/ilustraciones/ico21.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
+          .col-12.col-md-4
+            p.mt-4 Emisor: Es quien transmite el mensaje.
       .jumbotron-5.mt-3
-        .row.justify-content-center.align-items-center
-              .col
-                  img(src='@/assets/curso/images/pages/ilustraciones/ico22.png' alt="", style="width:80px; display:block; margin:auto 0;").img-float
-                  p.mt-4.text-center Receptor: Es el que recibe el mensaje.
+        .row.justify-content-left
+          .col-auto
+            img.number(src='@/assets/curso/images/pages/ilustraciones/ico22.png' alt="", style="width:80px; display:block; margin:auto 0;").img-float
+          .col-12.col-md-4
+            p.mt-4 Receptor: Es el que recibe el mensaje.
       .jumbotron-5.mt-3
-        .row.justify-content-center.align-items-center
-              .col
-                  img(src='@/assets/curso/images/pages/ilustraciones/ico23.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
-                  p.mt-3.text-center Código: es el conjunto de signos que serán utilizados para crear el mensaje (palabras, gestos, símbolos)..
+        .row.justify-content-left
+          .col-auto
+              img.number(src='@/assets/curso/images/pages/ilustraciones/ico23.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
+          .col-12.col-md-8
+              p.mt-3-text-center Código: es el conjunto de signos que serán utilizados para crear el mensaje (palabras, gestos, símbolos)..
       .jumbotron-5.mt-3
-        .row.justify-content-center.align-items-center
-              .col
-                  img(src='@/assets/curso/images/pages/ilustraciones/ico24.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
-                  p.mt-2.text-center Mensaje: es la información o conjunto de datos que se transmiten.
+        .row.justify-content-center-left
+          .col-auto
+              img(src='@/assets/curso/images/pages/ilustraciones/ico24.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
+          .col-12.col-md-8
+              p.mt-2 Mensaje: es la información o conjunto de datos que se transmiten.
       .jumbotron-5.mt-3
-        .row.justify-content-center.align-items-center
-              .col
-                  img(src='@/assets/curso/images/pages/ilustraciones/ico25.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
-                  p.mt-3.text-center Canal de comunicación: es el medio físico que se utiliza para enviar el mensaje.  Ejemplo : teléfono, televisión, internet, el propio aire, etc.
+        .row.justify-content-center-left
+          .col-auto
+              img(src='@/assets/curso/images/pages/ilustraciones/ico25.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
+          .col-12.col-md-8
+              p.mt-3 Canal de comunicación: es el medio físico que se utiliza para enviar el mensaje.  Ejemplo : teléfono, televisión, internet, el propio aire, etc.
       .jumbotron-5.mt-3
-        .row.justify-content-center.align-items-center
-              .col
-                  img(src='@/assets/curso/images/pages/ilustraciones/ico26.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
-                  p.mt-3.text-center Ruido: son todas las distorsiones que pueden influir en la recepción del mensaje original, y pueden ser tanto del emisor, como del canal o del receptor.
+        .row.justify-content-center-left
+          .col-auto
+              img(src='@/assets/curso/images/pages/ilustraciones/ico26.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
+          .col-12.col-md-8
+              p.mt-3 Ruido: son todas las distorsiones que pueden influir en la recepción del mensaje original, y pueden ser tanto del emisor, como del canal o del receptor.
       .jumbotron-5.mt-3
-        .row.justify-content-center.align-items-center
-              .col
-                  img(src='@/assets/curso/images/pages/ilustraciones/ico27.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
-                  p.mt-3.text-center Retroalimentación o feedback: en una primera instancia, es la respuesta del receptor hacia el mensaje recibido. Si posteriormente el emisor responde a lo enviado por el receptor, también se considera retroalimentación.
+        .row.justify-content-center-left
+          .col-auto
+              img(src='@/assets/curso/images/pages/ilustraciones/ico27.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
+          .col-12.col-md-8
+              p.mt-3 Retroalimentación o feedback: en una primera instancia, es la respuesta del receptor hacia el mensaje recibido. Si posteriormente el emisor responde a lo enviado por el receptor, también se considera retroalimentación.
       .jumbotron-5.mt-3
-        .row.justify-content-center.align-items-center
-              .col
-                  img(src='@/assets/curso/images/pages/ilustraciones/ico28.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
-                  p.mt-2.text-center Contexto: son las circunstancias en las que se desarrolla el proceso de comunicación. Tienen influencia directa en la interpretación del mensaje (el lugar en donde se desarrolla la comunicación, la motivación de la comunicación, contexto social, etc.)
+        .row.justify-content-center-left
+          .col-auto
+              img(src='@/assets/curso/images/pages/ilustraciones/ico28.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
+          .col-12.col-md-8
+              p.mt-2 Contexto: son las circunstancias en las que se desarrolla el proceso de comunicación. Tienen influencia directa en la interpretación del mensaje (el lugar en donde se desarrolla la comunicación, la motivación de la comunicación, contexto social, etc.)
 
 
       p.mt-5 El proceso comunicativo es esencial para la vida en sociedad: permite que los seres humanos se expresen y compartan información entre sí, establezcan relaciones, lleguen a acuerdos y sean capaces de organizarse.
@@ -75,22 +83,22 @@
       .pb-2.h3.mt-5 3.2.1. Lenguaje verbal
 
       p.mt-5 Se refiere a la comunicación que se vale de la palabra para dar el mensaje, es la principal forma de comunicación que se utiliza. Puede ser oral o escrita
-
+      
       .i-general-5
-          div.div-gradient-5
-            .div.c-card-5
+          div.div-gradient-7
+            .div.c-card-7
               .pb-5.h3.mt-5 3.2.1.1. Comunicación oral:
               img.img-a.mb-4(src="@/assets/curso/images/pages/ilustraciones/img35.png" alt="", style="width:400px; display:block; margin:auto 0;").img-float
               p.mt-5 Es el intercambio de mensajes a través del habla.
               p.mt-4 La voz juega un papel muy importante en nuestro contacto con el cliente.  Debemos ser directos al hablar. Evitar “muletillas o gaguear” Y sobre todo, evitar la voz postiza o fingida. La presentación personal, el espacio adecuado para atender al cliente y mantener un contacto visual.
-          div.div-gradient-5
-            .div.c-card-5
+          div.div-gradient-7
+            .div.c-card-7
               .pb-2.h3.mt-5 3.2.1.2. Comunicación escrita:
               img.img-a.mb-4(src="@/assets/curso/images/pages/ilustraciones/img36.png" alt="", style="width:400px; display:block; margin:auto 0;").img-float
               p.mt-5 En este caso, el proceso comunicacional ocurre a través del lenguaje escrito.
               p.mt-2 Ejemplo: carta, mensajes de texto, correos electrónicos. 
               p.mt-2 El contenido del mensaje es  riguroso y preciso, lógico y claro aplicando  normas gramaticales y reglas de acentuación.
-        
+  
       br
       .pb-5.h3.mt-5 3.2.2. Lenguaje no verbal
 
@@ -100,63 +108,52 @@
       #t_3_3.pb-5.h2 3.3. Técnicas
 
       p.mt-5 La comunicación es un arte y se debe aprender, se debe preparar bien el mensaje que desea transmitir. Definir y tener muy claro lo que se quiere comunicar utilizando el lenguaje más adecuado y considerando el contexto en el que se efectúa la comunicación.
-
-      .row 
-        .col-12 
-          nav.nav-tab-ecored.my-5
-            #nav-tab.nav.nav-tabs(role='tablist')
-              a#nav-01-tab.nav-item.nav-link.active(data-toggle='tab', href='#nav-01', role='tab', aria-controls='nav-01', aria-selected='true') 
-                strong Generar confianza
-              a#nav-02-tab.nav-item.nav-link(data-toggle='tab', href='#nav-02', role='tab', aria-controls='nav-02', aria-selected='false') 
-                strong Actitud de escucha
-              a#nav-03-tab.nav-item.nav-link(data-toggle='tab', href='#nav-03', role='tab', aria-controls='nav-03', aria-selected='false') 
-                strong Postura y movimientos
-              a#nav-04-tab.nav-item.nav-link(data-toggle='tab', href='#nav-04', role='tab', aria-controls='nav-04', aria-selected='false') 
-                strong Los gestos faciales
-                        
-            #nav-tabContent.tab-content
-              #nav-01.tab-pane.fade.show.active(role='tabpanel', aria-labelledby='nav-01-tab') 
-                .row.align-items-center
-                  .col-auto 
-                    img(src="@/assets/curso/images/pages/ilustraciones/img37.png", alt="", style="width:180px")
-                  .col 
-                    p #[strong A]
-                    p.mb-0 Para que se dé una buena comunicación y generar confianza con el oyente se debe tener convicción, el emisor debe estar convencido y creer lo que está diciendo, de no ser así es posible que el mensaje no llegue al receptor como se piensa y de lo contrario sea interpretado de manera errónea, y no se logrará el objetivo.
-
-              #nav-02.tab-pane.fade(role='tabpanel', aria-labelledby='nav-02-tab')
-                .row.align-items-center
-                  .col-auto 
-                    img(src="@/assets/curso/images/pages/ilustraciones/img38.png", alt="", style="width:180px")
-                  .col
-                    p #[strong B] 
-                    p.mb-0 Actitud de escucha, es la principal herramienta.  La escucha activa consiste en una forma de comunicación, que demuestra al hablante, que el oyente le está entendiendo
-
-              #nav-03.tab-pane.fade(role='tabpanel', aria-labelledby='nav-03-tab')
-                .row.align-items-center
-                  .col-auto 
-                    img(src="@/assets/curso/images/pages/ilustraciones/img39.png", alt="", style="width:180px")
-                  .col
-                    p #[strong C] 
-                    p.mb-0 Postura y movimientos.  La posición física del cuerpo es un reflejo de la  condición mental y del estado de ánimo en el que se encuentra, por esto  influye en la percepción que el o los oyentes pueden tener.
-                    p.mb-0 > Aprender a moverse con naturalidad y moderadamente.
-                    p > Tener una postura recta y a la vez armoniosa.
-                    p > Las manos deben usarse con movimientos moderados reforzando el contenido del mensaje.
-                    p > Cada gesto o movimiento debe apoyar el significado de lo que se está comunicando, guardar concordancia entre lo que se expresa y lo que hace el cuerpo.
-
-              #nav-04.tab-pane.fade(role='tabpanel', aria-labelledby='nav-04-tab')
-                .row.align-items-center
-                  .col-auto 
-                    img(src="@/assets/curso/images/pages/ilustraciones/img40.png", alt="", style="width:180px")
-                  .col
-                    p #[strong D] 
-                    p.mb-0 Los gestos faciales generan gran impacto al momento de comunicar, se debe aprender a apoyar el mensaje con la expresión facial.
-                    p > Mostrar una expresión cordial.
-                    p > Controlar gestos negativos como inseguridad o nerviosismo.
-                    p > Ser moderados con la expresividad.
-                    p > Es importante sonreír, de lo contrario el cliente puede percibir hostilidad.
-                    p > vitar fingir porque se puede mostrar con el lenguaje no verbal y perderá credibilidad.
-                    p > Se debe establecer contacto visual y la mirada debe reflejar convicción y entusiasmo, esto traslada credibilidad al mensaje.
-
+      
+      TabsB.mt-5
+        .py-4.py-md-5(titulo="Generar confianza")
+          .row
+            .col-md-6.mb-4.mb-md-0
+            
+              figure
+                img.img-col(src='@/assets/curso/images/pages/ilustraciones/img37.png', alt='Texto que describa la imagen')
+            .col-md-6
+                p #[strong A]
+                p.mb-0 Para que se dé una buena comunicación y generar confianza con el oyente se debe tener convicción, el emisor debe estar convencido y creer lo que está diciendo, de no ser así es posible que el mensaje no llegue al receptor como se piensa y de lo contrario sea interpretado de manera errónea, y no se logrará el objetivo.
+        .py-4.py-md-5(titulo="Actitud de escucha")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              figure
+                img.img-col(src='@/assets/curso/images/pages/ilustraciones/img49.png', alt='Texto que describa la imagen')
+            .col-md-6
+              p #[strong B] 
+              p.mb-0 Actitud de escucha, es la principal herramienta.  La escucha activa consiste en una forma de comunicación, que demuestra al hablante, que el oyente le está entendiendo
+        .py-4.py-md-5(titulo="Postura y movimientos")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/images/pages/ilustraciones/img50.png', alt='Texto que describa la imagen')
+            .col-md-6 
+              p #[strong C] 
+              p.mb-0 Postura y movimientos.  La posición física del cuerpo es un reflejo de la  condición mental y del estado de ánimo en el que se encuentra, por esto  influye en la percepción que el o los oyentes pueden tener.
+              p.mb-0 > Aprender a moverse con naturalidad y moderadamente.
+              p > Tener una postura recta y a la vez armoniosa.
+              p > Las manos deben usarse con movimientos moderados reforzando el contenido del mensaje.
+              p > Cada gesto o movimiento debe apoyar el significado de lo que se está comunicando, guardar concordancia entre lo que se expresa y lo que hace el cuerpo.
+        .py-4.py-md-5(titulo="Los gestos faciales")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/images/pages/ilustraciones/img51.png', alt='Texto que describa la imagen')
+            .col-md-6
+              p #[strong D] 
+              p.mb-0 Los gestos faciales generan gran impacto al momento de comunicar, se debe aprender a apoyar el mensaje con la expresión facial.
+              p > Mostrar una expresión cordial.
+              p > Controlar gestos negativos como inseguridad o nerviosismo.
+              p > Ser moderados con la expresividad.
+              p > Es importante sonreír, de lo contrario el cliente puede percibir hostilidad.
+              p > vitar fingir porque se puede mostrar con el lenguaje no verbal y perderá credibilidad.
+              p > Se debe establecer contacto visual y la mirada debe reflejar convicción y entusiasmo, esto traslada credibilidad al mensaje.
+     
       #t_3_4.pb-5.h2 3.4 Comunicación efectiva
 
       .row.justify-content-center.align-items-center.mt-5
@@ -317,9 +314,133 @@
                   .h1i.text-center.mt-2 #[strong Mensajes.]
                   p.mt-2.text-center En caso de recibir una llamada para un tercero, se debe tomar nota del mensaje y procesarlo a la mayor brevedad. El mensaje debe ser  claro y asegurarse que se tienen todos los datos, principalmente el nombre del destinatario del mensaje, de la persona que deja el mensaje y número de teléfono.
       
+      
+      .pb-5.h3.mt-5 3.5.2 Comunicación telemática
 
-      #t_3_6.pb-5.h2 tema 3.6
-      .pb-5(v-for="item of 15")
+        .row.justify-content-center.align-items-center.mt-5
+              .col-auto 
+                    img.img-a(src="@/assets/curso/images/pages/ilustraciones/img44.png").img-fluid
+              .col
+                p.mb-0 Es un conjunto de servicios y técnicas que surgen de la evolución de la comunicación y la informática.  <b>Es la trasmisión de datos o información entre ordenadores, es decir, la comunicación entre personas utilizando el ordenador</b>. Las principales ventajas son la rapidez y diversidad. 
+      
+      .pb-1.h3.mt-5 3.5.2.1 Clasificación según la explotación de los datos
+
+      .i-general-5
+        .div.div-gradient-5
+          .div.c-card-5
+            img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img45.png' alt="",style="width:70px; display:block; margin:auto 0;")
+            .h1i.text-center.mt-2 #[strong Unidireccional.]
+            p.mt-2.text-center La transmisión se realiza en un solo sentido ejemplo: “una oferta promocional desde el área de reservas”.
+        .div.div-gradient-5
+          .div.c-card-5
+            img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img46.png' alt="", style="width:70px; display:block; margin:auto 0;")
+            .h1i.text-center.mt-2 #[strong Bidireccional.]
+            p.mt-2.text-center Cuando se produce una comunicación de emisor a receptor y de receptor a emisor. Ejemplo: solicitud de reserva de parte del cliente y respuesta del área de reservas.
+        .div.div-gradient-5
+          .div.c-card-5
+            img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img47.png' alt="", style="width:70px; display:block; margin:auto 0;")
+            .h1i.text-center.mt-2 #[strong Bidireccional simultánea.]
+            p.mt-2.text-center Donde el emisor y el receptor intercambian papeles continuamente. Ejemplo: solicitud que requiere respuesta inmediata.
+
+      .pb-1.h3.mt-5 3.5.2.2 Clasificación según la trasmisión
+      .i-general-1
+          div.div-gradient-2
+            .div.c-card-2
+              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico34.png' alt="",style="width:100px; display:block; margin:auto 0;").img-float
+              p.text-center #[strong Sincrónica:]
+              p.mt-4.p2.text-center chat, videoconferencias.
+          div.div-gradient-2 
+            .div.c-card-2
+              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico35.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float
+              p.text-center #[strong Asincrónica:] 
+              p.mt-5.p2.text-center correo electrónico, foros.
+
+      .pb-1.h3.mt-5 3.5.2.3 Técnicas de comunicación telemática
+
+      .jumbotron-4.mt-5
+        .row.justify-content-center.align-items-center
+              .col
+                  .h1i.mt-2 #[strong Tema del mensaje:] exponer de manera breve el mensaje.
+                  
+      .jumbotron-4.mt-3
+        .row.justify-content-center.align-items-center
+              .col
+                  .h1i.mt-2 #[strong Cuerpo del mensaje:] sigue el procedimiento de una carta.
+                  
+                  p.mt-3 > Saludo.
+                  p.mt-3 > Texto del mensaje.
+                  p.mt-3 > Despedida con firma.
+
+
+      .row.mt-5
+        .col-auto 
+              img.img-a(src="@/assets/curso/images/pages/ilustraciones/img48.png", alt="", style="width:1050px").img-fluid
+
+      #t_3_6.pb-5.h2.mt-5 3.6 Habilidades comunicativas
+      
+      p Escuchar con efectividad. Saber escuchar es un proceso activo que requiere un genuino esfuerzo para comprender lo que los demás quieren transmitir.  Los puntos que nos conducen a escuchar con mayor efectividad son: prestar atención, evitar distracciones, no suponer, confirmar, establecer contacto visual con la persona que se está dirigiendo a nosotros, dejar que los demás expresen sus ideas y pensamientos sin adoptar posturas críticas antes de tiempo, no interrumpir, analizar la comunicación no verbal que se transmite.
+      
+      .i-general-5
+          div.div-gradient-9
+            .div.c-card-9
+              p #[strong Al tratar a otras personas:]
+          div.div-gradient-9
+            .div.c-card-9
+              p #[strong Entre las expresiones que bloquean la comunicación están:]
+      .i-general-5
+          div.div-gradient-8
+            .div.c-card-8
+              p > Respetar a todo ser humano.
+              p > Evitar criticar y menos en público
+              p > Elogiar los aspectos positivos de las personas.
+              p > Evitar dar órdenes constantemente.
+              p > Dar a cada uno su lugar tomando en consideración sus gustos e intereses.
+              p > No tomar responsabilidades que competan a otras personas.
+              p > Evitar tomar parte en discusiones, conservar la neutralidad.
+              p > Frenar los impulsos al hablar, pensar muy bien antes de hablar.
+              p > Cumplir las promesas que se hacen.
+              p > Ocultar las penas y sufrimientos.
+              p > Mantener una mentalidad abierta y amplia.
+              p > Ser paciente manifestando actitudes comprensibles y simpáticas.
+              p > Dominar las reacciones agresivas, evitando ser descorteses e irónicos.
+              p > Mirar a las personas cuando se les habla.
+              p > No hacer esperar a nadie.
+              p > Huir de la chismografía.
+              p > Agradecer todos los favores.
+              p > Ser atentos, amable y cordial.
+              p > Evitar, no manejar: la prepotencia, el engaño, la indiferencia, el orgullo, la suciedad, el mal trato, malos modales. 
+          div.div-gradient-8
+            .div.c-card-8.pb-5
+              p > Las observaciones rudas o descorteses.
+              p > Las frases y respuestas ásperas.
+              p > El sarcasmo.
+              p > La incapacidad para apreciar manifestaciones de buen humor en los demás.
+              p > Hablar al oído de una persona delante de otras.
+              p > Levantar la voz y gritar.
+              p > Criticar.
+              p > Mentir.
+              p > No recordar nombres.
+              p > Callar a una persona.
+              p > Corregir en público.
+              p > No mirar al interlocutor.
+              p > Ponerse a la defensiva.
+              p > Involucrarse en las emociones.
+              p > Provocar situaciones “más” irritantes.
+              p > Prometer cosas que no se podrán cumplir.
+              p > Ser solidario: tome el asunto con seriedad pero no en forma personal.
+              p > Primero escuche, luego hable, pero hágalo con serenidad, suavizando sus gestos.
+
+
+
+
+
+
+
+
+
+
+
+
 
 </template>
 

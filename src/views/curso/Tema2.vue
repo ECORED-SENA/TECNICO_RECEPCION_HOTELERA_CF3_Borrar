@@ -230,26 +230,78 @@
       br
       p En español, el protocolo es un conjunto de reglas o instrucciones a seguir, fijadas por la ley o la tradición.
       br
-      p A continuación describiremos los pasos que toda persona debe seguir en el momento en que entra en contacto con un cliente:
-      //Pendiente
-      .acordion
-        .p-3.pb-0(v-for="elm of elements" :key="elm.id" :class="[cardClass,'mb-3']")
-          .acordion__header.mb-3(@click="selected = selected != elm.id ? elm.id : 0")
-            .acordion__accion
-              .acordion__accion__btn.h5.mb-0
-                i.fas.fa-minus(v-if="selected === elm.id")
-                i.fas.fa-plus(v-else)
+      p.mb-5 A continuación describiremos los pasos que toda persona debe seguir en el momento en que entra en contacto con un cliente:
+      
+      AcordionA.mb-5(clase-tarjeta="tarjeta tarjeta--azul")
 
-            .acordion__titulo
-              .h5.mb-0 {{elm.titulo}}
-          
-          .acordion__contenido(
-            :style="{ height: rendered && selected === elm.id ? getActiveHeight(elm.id) : 0 } "
-          )
-            .acordion__contenido__item.pb-3(:ref="elm.id" v-html="elm.html")
+        .row.justify-content-around.align-items-center(titulo="1. Salude a su cliente “haga que me sienta cómodo y a gusto”.")
+          P Recuerde siempre que cuando usted saluda a un cliente y le da la bienvenida, usted está hablando a nombre de la organización para la cual trabaja. Es la empresa quien está saludando al cliente. Usted es la imagen de su empresa. Una persona se forma impresiones de otra en los primeros siete segundos de contacto. Al saludar a su cliente, muéstrele que su presencia es importante para usted. No lo mire como a un estorbo, sino como alguien que es importante. Establezca contacto visual, dele las gracias por haberlo visitado o por haberlo llamado y préstele toda su atención.
 
-          .acordion-slot
-            slot
+        .row.justify-content-around.align-items-center(titulo="2. Concédale valor a los clientes “hágame saber por que piensa que yo soy importante”.")
+          p Cada persona es única e irrepetible. Concédales a las personas el valor que se merecen. Esto se logra siendo consciente del valor que usted se atribuye a sí mismo. A usted le gusta recibir un buen trato. Pues bien, trate a su cliente exactamente de la misma manera como a usted le gustaría ser tratado. Recuerde que gracias a su cliente usted recibe un salario y que su empleo, en última instancia, existe gracias a los clientes.
+          p Recuerde que usted no está en su empresa para vender u ofrecer productos o servicios, está allí para ayudar a las personas a obtener los beneficios finales que ofrecen esos productos o servicios. Lograr que se sientan a gusto y hacerles saber que se han dirigido al mejor lugar que podrían haber elegido. Al realizar actividades que se centran en otros, usted obtiene grandes recompensas personales, una de ellas es un mayor respeto por sí mismo.
+
+        .row.justify-content-around.align-items-center(titulo="3. Pregunte a su cliente en que le puede servir, “averigüe lo que quiero”.")
+          p Recuerde siempre que las personas en realidad no necesitan un producto o un servicio. Lo que realmente necesitan es lo que les producirá ese producto o ese servicio, es decir, los beneficios finales que le proporcionará. 
+          p Los clientes no compran automóviles con el sólo propósito de conducir un vehículo. Lo compran para agradar a sus familias, estar a la altura de sus vecinos u obtener un mayor estatus o mayor comodidad.
+          p Por lo tanto, una parte muy importante de su contacto con el cliente debe consistir en averiguar qué necesita, teniendo presente más allá de las cosas que busca satisfacer.
+          p Averigüe qué necesita la persona que lo ha llamado o que ha llegado y pregúntele: “En qué puedo servirle?”
+
+        .row.justify-content-around.align-items-center(titulo="4. Escuche al cliente “por favor, escúcheme y entiéndame”.")
+          p Son muy pocas las personas que saben escuchar. La mayoría de las personas aparentan escuchar al otro, pero en realidad están procesando internamente la frase que van a pronunciar cuando el otro haga una pausa. Y de esa manera la conversación se convierte en un monólogo compartido.
+          p Centre toda su atención en su cliente, escuche sus palabras, escuche su tono de voz y “escuche” su lenguaje corporal.
+          p Tenga presente además que su lenguaje corporal sirve de modelo al otro. La mayoría de las personas adoptan inconscientemente el lenguaje corporal de su interlocutor.   
+          p Haga el siguiente experimento: la próxima vez que esté con alguien (que no sea un cliente) independientemente de lo que la otra persona esté haciendo con sus brazos, cruce usted los suyos bien apretados. Después observe lo que hace su interlocutor. Lo más probable es que él también cruce los suyos. 
+          p Pero, ¿qué tiene que ver esto con escuchar?
+          p Todo!!
+          p Escuchar no se limita sólo a oír las palabras. También consiste en entender qué siente. Es establecer un contacto emocional con la otra persona. Fíjese en su propio lenguaje.
+
+        .row.justify-content-around.align-items-center(titulo="5. Ayude al cliente “ayúdeme a obtener lo que quiero”.")
+          p Ya que ha recibido bien al cliente, le ha concedido valor, le ha preguntado en qué puede servirle y le ha escuchado para conocer sus necesidades, llegó el momento de satisfacerlas.
+          p Al hacerlo, tenga presente que una persona no compra su producto o servicio por lo que es, sino por la necesidad que le permitirá satisfacer. La persona compra por los beneficios finales. Centre su comunicación en torno de los beneficios que obtendrá el cliente. 
+          p Recuerde que gran parte de su trabajo consiste en ayudar a la gente a resolver sus problemas. Llegó el momento de hacerlo. Satisfaga sus necesidades, ayúdele a resolver su problema.
+
+        .row.justify-content-around.align-items-center(titulo="6. Invite al cliente a que regrese “digame que siempre seré bienvenido”.")
+          p Un verdadero cliente no es el que le compra un producto o utiliza sus servicios, sino el que lo hace de nuevo, el que regresa. Cuando haya atendido a su cliente, asegúrese de que se lleve una grata última impresión. 
+          p Hágase las siguientes preguntas:
+          p > ¿Cómo quiere que se sienta alguien después de haber estado en contacto con usted?
+          p > ¿Qué quiere que diga de usted?
+          p > ¿Cómo quiere que describa su experiencia con usted?
+          p > Para lograr una buena última impresión a su cliente
+          p > Dele las gracias por haber utilizado sus servicios.
+          p > Invitarlo a regresar pronto.
+          p > Despierte las ganas de volver.
+
+          p Recuerde que el buen trato influye en la satisfacción del cliente. Las personas van a lugares donde son apreciadas, donde se sienten bienvenidas y valoradas y vuelven a los lugares cuando se les invita a que regresen.
+
+        .row.justify-content-around.align-items-center(titulo="1.  Reservación.”.")
+
+          p Puede que la venta se realice o no. Esto  dependerá de la disponibilidad de habitaciones, el tipo de habitaciones, los servicios que se ofrecen, las tarifas y por supuesto la atención al cliente al momento de realizar la reserva.
+
+        .row.justify-content-around.align-items-center(titulo="2.  Transporte.”.")
+
+          p Luego viene el servicio de transfer si el hotel lo ofrece. Este es un momento de la verdad crítico porque es el primer contacto directo entre el cliente y el personal del hotel.
+
+          p Este consiste en la búsqueda en el aeropuerto o terminal terrestre al huésped para su mayor comodidad. La información de la hora de llegada, empresa de transporte y demás datos son ofrecidos por el cliente al hotel.
+
+        .row.justify-content-around.align-items-center(titulo="3. Registro y alojamiento.”.")
+
+          p Al llegar al hotel, el cliente entra en una nueva fase (otro momento de verdad) para su registro y alojamiento. Durante el momento de la bienvenida el cliente tendrá la primera impresión directa del servicio hotelero.  Es recibido inicialmente por el botones quien lo acompaña a la recepción. 
+
+          p La forma como es recibido, el trato, la atención que se presta, el tiempo de espera, etc., también cuentan.
+          p Esta etapa comienza con el check-in que verifica y determina las condiciones de la reserva. También incluye la compra concretamente, en caso de que el cliente no posea reserva. Es el llamado front desk, donde también vende el hotel.
+
+          p Una vez el cliente llena la tarjeta de registro, se le asigna la habitación solicitada por el huésped. Se establece la forma de pago, si no se ha hecho el pago previo, y otras garantías.
+
+          p Aquí entran en juego aspectos como la calidad de la habitación, para que el cliente determine la relación costo – beneficio.
+
+        .row.justify-content-around.align-items-center(titulo="4. Estadía.”.")
+          p Luego viene la etapa de la estadía propiamente, donde el huésped experimentará muchos momentos de verdad con los empleados del hotel: camareras, meseros, botones, empleados administrativos, entre otros.
+          p El cliente hace uso de las instalaciones del hotel y comprueba la calidad del servicio que compró. Esta fase comprende todo lo que hace el huésped dentro del hotel: dormir, comer, recrearse, solicitar información y satisfacer o no sus expectativas de compra.
+
+        .row.justify-content-around.align-items-center(titulo="5.Salida.”.")
+          p El check–out es la última etapa del ciclo del cliente en el hotel. Es cuando se le presenta al huésped su estado de cuenta para su pago final. Esta etapa representa otro momento crítico, pues el cliente verificará que le hayan cargado y cobrado correctamente sus consumos, de acuerdo a lo ofrecido por el establecimiento.  Aquí juega un papel muy importante no solo el cobro correcto sino también el tiempo de espera del cliente.
+
       .jumbotron.mt-5
         .row.justify-content-center.align-items-center
               .col
