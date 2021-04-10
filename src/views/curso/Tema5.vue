@@ -19,21 +19,21 @@
                 .col-auto 
                     img.img-a(src="@/assets/curso/images/pages/ilustraciones/img64.png").img-fluid
 
-      #t_5_2.pb-5.h2 5.2 Tipos
+      #t_5_2.pb-2.h2 5.2 Tipos
 
       p.mt-3 En los servicios de alojamiento se presentan los siguientes tipos de cotizaciones, de acuerdo a la necesidad del cliente.
 
-      .pb-5.h3.mt-5 5.2.1. Cotización de servicio de alojamiento:
+      .pb-2.h3.mt-5 5.2.1. Cotización de servicio de alojamiento:
 
-      p.mt-3 el cliente realiza un acercamiento al establecimiento para solicitar tarifas y de acuerdo a ello, tomar la determinación de reservar  las habitaciones, también puede solicitar tarifas en alimentos y bebidas o servicios complementarios.
+      p.mt-3 El cliente realiza un acercamiento al establecimiento para solicitar tarifas y de acuerdo a ello, tomar la determinación de reservar  las habitaciones, también puede solicitar tarifas en alimentos y bebidas o servicios complementarios.
 
-      .pb-5.h3.mt-5 5.2.1. Cotización de servicio de alojamiento:
+      .pb-2.h3.mt-5 5.2.1. Cotización de servicio de alojamiento:
 
       p.mt-3 el cliente realiza un acercamiento al establecimiento para solicitar tarifas y de acuerdo a ello, tomar la determinación de reservar  las habitaciones, también puede solicitar tarifas en alimentos y bebidas o servicios complementarios.
 
       .pb-1.h3.mt-5 5.2.2. Cotización de eventos
 
-      .i-general-5
+      .i-general-5.my-3
         .div.div-gradient-11
           .div.c-card-11
             img.mt-5(src='@/assets/curso/images/pages/ilustraciones/ico42.png' alt="",style="width:30px; display:block; margin:auto 0;")
@@ -50,7 +50,7 @@
             .h1i.mt-2 #[strong Grupos:]
             p.mt-2 Cuando se requiere alojamiento de un número superior a 10 habitaciones usualmente se le considera grupo, <b> la cotización se genera de una manera diferente ya que se establecen ofertas y tratamientos especiales </b> tanto en acomodación como en los servicios de alimentos y bebidas.
 
-      .pb-1.h3.mt-5 5.2.3 Cotización de servicios complementarios:
+      .pb-1.h3.mt-2 5.2.3 Cotización de servicios complementarios:
 
       p.mt-3 algunos establecimientos no solo ofrecen los servicios de alojamiento y/o eventos, también pueden ofrecer servicios de restaurante, bar, gimnasio, spa, piscina entre otros, estos servicios pueden ser usados sin requerir el servicio de alojamiento, por lo cual también el cliente puede solicitar cotización para determinar hacer el uso de ellos. 
 

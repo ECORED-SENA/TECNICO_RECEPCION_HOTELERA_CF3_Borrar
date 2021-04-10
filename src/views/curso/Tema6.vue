@@ -13,7 +13,7 @@
 
       p En el sector hotelero se deben definir una serie de variantes para ofrecer el servicio como son:
 
-      .i-general-1
+      .i-general-1.my-3
           div.div-gradient-12
             .div.c-card-12
               img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico36.png' alt="",style="width:100px; display:block; margin:auto 0;").img-float
@@ -88,7 +88,7 @@
 
       #t_6_3.pb-1.h2.mt-5 6.3 Políticas.
 
-      .row.justify-content-center.align-items-center.mt-5
+      .row.justify-content-center.align-items-center
             
                 .col
                     p Como ya se ha mencionado antes la  empresa establece <b>una serie de normas y reglas </b> que rigen las actividades diarias del establecimiento a lo que se le llaman políticas.  El departamento de ventas es el área encargada, con aprobación de la alta gerencia de establecer las políticas de ventas y negociación ya que esta área conoce el producto, su costo y considera la oferta y la demanda.
@@ -98,7 +98,7 @@
 
       #t_6_4.pb-1.h2.mt-2 6.4 Manejo de objeciones
 
-      .row.justify-content-center.align-items-center.mt-5
+      .row.justify-content-center.align-items-center
                 
                 .col
                     p Las objeciones son los obstáculos que se presentan en un momento determinado, se utiliza el <b> “no”</b> o el <b>“pero”</b> por parte del cliente, <b>esto lo puede hacer para asegurarse que el producto o servicio cumplirá sus expectativas.</b>

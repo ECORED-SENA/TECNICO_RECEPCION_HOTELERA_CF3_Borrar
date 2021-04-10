@@ -30,13 +30,13 @@
           .col-auto
               img.number(src='@/assets/curso/images/pages/ilustraciones/ico23.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
           .col-12.col-md-8
-              p.mt-3-text-center Código: es el conjunto de signos que serán utilizados para crear el mensaje (palabras, gestos, símbolos)..
+              p.mt-5-text-center Código: es el conjunto de signos que serán utilizados para crear el mensaje (palabras, gestos, símbolos)..
       .jumbotron-5.mt-3
         .row.justify-content-center-left
           .col-auto
               img(src='@/assets/curso/images/pages/ilustraciones/ico24.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
           .col-12.col-md-8
-              p.mt-2 Mensaje: es la información o conjunto de datos que se transmiten.
+              p.mt-5 Mensaje: es la información o conjunto de datos que se transmiten.
       .jumbotron-5.mt-3
         .row.justify-content-center-left
           .col-auto
@@ -100,14 +100,14 @@
               p.mt-2 El contenido del mensaje es  riguroso y preciso, lógico y claro aplicando  normas gramaticales y reglas de acentuación.
   
       br
-      .pb-5.h3.mt-5 3.2.2. Lenguaje no verbal
+      .pb-2.h3.mt-5 3.2.2. Lenguaje no verbal
 
-        p.mt-5 Son todos los gestos que consciente e inconscientemente transmitimos en nuestras relaciones interpersonales y que dan cuenta de nuestras posiciones acerca de lo que el otro dice o hace.  <b>Se expresa a través del lenguaje corporal, la proximidad, signos no lingüísticos y sonidos sin palabras.</b>
+        p.mt-3 Son todos los gestos que consciente e inconscientemente transmitimos en nuestras relaciones interpersonales y que dan cuenta de nuestras posiciones acerca de lo que el otro dice o hace.  <b>Se expresa a través del lenguaje corporal, la proximidad, signos no lingüísticos y sonidos sin palabras.</b>
 
 
-      #t_3_3.pb-5.h2 3.3. Técnicas
+      #t_3_3.pb-2.h2 3.3. Técnicas
 
-      p.mt-5 La comunicación es un arte y se debe aprender, se debe preparar bien el mensaje que desea transmitir. Definir y tener muy claro lo que se quiere comunicar utilizando el lenguaje más adecuado y considerando el contexto en el que se efectúa la comunicación.
+      p.mt-3 La comunicación es un arte y se debe aprender, se debe preparar bien el mensaje que desea transmitir. Definir y tener muy claro lo que se quiere comunicar utilizando el lenguaje más adecuado y considerando el contexto en el que se efectúa la comunicación.
       
       TabsB.mt-5
         .py-4.py-md-5(titulo="Generar confianza")
@@ -154,7 +154,7 @@
               p > vitar fingir porque se puede mostrar con el lenguaje no verbal y perderá credibilidad.
               p > Se debe establecer contacto visual y la mirada debe reflejar convicción y entusiasmo, esto traslada credibilidad al mensaje.
      
-      #t_3_4.pb-5.h2 3.4 Comunicación efectiva
+      #t_3_4.pb-2.h2 3.4 Comunicación efectiva
 
       .row.justify-content-center.align-items-center.mt-5
             
@@ -343,7 +343,7 @@
             p.mt-2.text-center Donde el emisor y el receptor intercambian papeles continuamente. Ejemplo: solicitud que requiere respuesta inmediata.
 
       .pb-1.h3.mt-5 3.5.2.2 Clasificación según la trasmisión
-      .i-general-1
+      .i-general-1.my-3
           div.div-gradient-2
             .div.c-card-2
               img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico34.png' alt="",style="width:100px; display:block; margin:auto 0;").img-float
@@ -355,7 +355,7 @@
               p.text-center #[strong Asincrónica:] 
               p.mt-5.p2.text-center correo electrónico, foros.
 
-      .pb-1.h3.mt-5 3.5.2.3 Técnicas de comunicación telemática
+      .pb-1.h3.mt-3 3.5.2.3 Técnicas de comunicación telemática
 
       .jumbotron-4.mt-5
         .row.justify-content-center.align-items-center
@@ -376,11 +376,11 @@
         .col-auto 
               img.img-a(src="@/assets/curso/images/pages/ilustraciones/img48.png", alt="", style="width:1050px").img-fluid
 
-      #t_3_6.pb-5.h2.mt-5 3.6 Habilidades comunicativas
+      #t_3_6.pb-2.h2.mt-5 3.6 Habilidades comunicativas
       
       p Escuchar con efectividad. Saber escuchar es un proceso activo que requiere un genuino esfuerzo para comprender lo que los demás quieren transmitir.  Los puntos que nos conducen a escuchar con mayor efectividad son: prestar atención, evitar distracciones, no suponer, confirmar, establecer contacto visual con la persona que se está dirigiendo a nosotros, dejar que los demás expresen sus ideas y pensamientos sin adoptar posturas críticas antes de tiempo, no interrumpir, analizar la comunicación no verbal que se transmite.
       
-      .i-general-5
+      .i-general-5.my-3
           div.div-gradient-9
             .div.c-card-9
               p #[strong Al tratar a otras personas:]

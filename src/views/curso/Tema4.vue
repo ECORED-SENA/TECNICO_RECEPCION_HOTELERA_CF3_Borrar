@@ -12,7 +12,7 @@
 
       #t_4_1.pb-1.h2.mt-5 4.1 Tipos
 
-      p.mt-5 En el mundo actual y cambiante la negociación no es estática, por lo tanto podremos mencionar algunos tipos de negociación relevantes pero no únicos y definitivos, estar actualizados es una condición para ser efectivos en el momento de negociar. 
+      p.mt-3 En el mundo actual y cambiante la negociación no es estática, por lo tanto podremos mencionar algunos tipos de negociación relevantes pero no únicos y definitivos, estar actualizados es una condición para ser efectivos en el momento de negociar. 
 
       .pb-2.h3.mt-3 4.1.1 Acomodativa
 
@@ -34,46 +34,46 @@
 
       p.mt-2 cuando una de las dos partes elige no negociar, se toma la opción de evitar negociar porque es más lo que se puede perder que ganar.
 
-      #t_4_2.pb-5.h2.mt-5 4.2 Etapas
+      #t_4_2.pb-3.h2.mt-5 4.2 Etapas
       
       .jumbotron-7
         .row.justify-content-center.align-items-center
-              .col-auto
-                  img.img-left.mb-5(src="@/assets/curso/images/pages/ilustraciones/img53.png", alt="", style="width:130px").img-float
-                  .h1i.mt-4 #[strong Preparación:]
-                  p.mt-2 identificar lo que se va a negociar, la posición y la estrategia a usar. Determinar los objetivos y posibles concesiones, lo que favorece, hasta donde se está dispuesto a ceder y la estrategia negociadora a seguir.
-              .col-auto 
-                  img.img-left.mb-5(src='@/assets/curso/images/pages/ilustraciones/img54.png', alt="", style="width:130px").img-float
-                  .h1i.mt-4 #[strong Desarrollo:]
-                  p.mt-2 se da un diálogo entre las partes utilizando argumentaciones, hay que escuchar atentamente para conocer la oferta y la demanda, es donde se presentan alternativas de producto o conocimiento de las necesidades, la buena comunicación juega un papel muy importante.
-              .col-auto
-                  img.img-left.mb-5.mt-3(src='@/assets/curso/images/pages/ilustraciones/img55.png', alt="", style="width:120px").img-float
-              .col
-                  .h1i.mb-3 #[strong Cierre:]
-                  p las partes aceptan una alternativa de acuerdo al desarrollo de la negociación y se comprometen a cumplir.
+          .col-auto
+              img.img-left.mb-5(src="@/assets/curso/images/pages/ilustraciones/img53.png", alt="", style="width:130px").img-float
+              .h1i.mt-4 #[strong Preparación:]
+              p.mt-2 identificar lo que se va a negociar, la posición y la estrategia a usar. Determinar los objetivos y posibles concesiones, lo que favorece, hasta donde se está dispuesto a ceder y la estrategia negociadora a seguir.
+          .col-auto 
+              img.img-left.mb-5(src='@/assets/curso/images/pages/ilustraciones/img54.png', alt="", style="width:130px").img-float
+              .h1i.mt-4 #[strong Desarrollo:]
+              p.mt-2 se da un diálogo entre las partes utilizando argumentaciones, hay que escuchar atentamente para conocer la oferta y la demanda, es donde se presentan alternativas de producto o conocimiento de las necesidades, la buena comunicación juega un papel muy importante.
+          .col-auto
+              img.img-left.mb-5.mt-3(src='@/assets/curso/images/pages/ilustraciones/img55.png', alt="", style="width:120px").img-float
+          .col
+              .h1i #[strong Cierre:]
+              p las partes aceptan una alternativa de acuerdo al desarrollo de la negociación y se comprometen a cumplir.
 
-      #t_4_3.h2 4.3 Técnicas.
+      #t_4_3.h2.my-3 4.3 Técnicas.
 
-      .i-general-5
-        .div.div-gradient-10
+      .i-general-5.my-3
+        div.div-gradient-10
           .div.c-card-10
             img(src='@/assets/curso/images/pages/ilustraciones/img56.png' alt="",style="width:230px; display:block; margin:auto 0;")
-        .div.div-gradient-10
+        div.div-gradient-10
           .div.c-card-10
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img57.png' alt="", style="width:230px; display:block; margin:auto 0;")
-        .div.div-gradient-10
+        div.div-gradient-10
           .div.c-card-10
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img58.png' alt="", style="width:230px; display:block; margin:auto 0;")
-        .div.div-gradient-10
+        div.div-gradient-10
           .div.c-card-10
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img59.png' alt="",style="width:230px; display:block; margin:auto 0;")
-        .div.div-gradient-10
+        div.div-gradient-10
           .div.c-card-10
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img60.png' alt="", style="width:230px; display:block; margin:auto 0;")
-        .div.div-gradient-10
+        div.div-gradient-10
           .div.c-card-10
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img61.png' alt="", style="width:230px; display:block; margin:auto 0;")
-        .div.div-gradient-10
+        div.div-gradient-10
           .div.c-card-10
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img62.png' alt="", style="width:230px; display:block; margin:auto 0;")
           

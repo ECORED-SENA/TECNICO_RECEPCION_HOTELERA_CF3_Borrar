@@ -35,11 +35,11 @@
           br
           p El personal es clave, es necesario que las personas que trabajan para la empresa, entiendan los objetivos del servicio y el por qué se debe alcanzar.
 
-      #t_2_2.pb-5.h2.mt-4 2.2 Características
+      #t_2_2.pb-2.h2.mt-4 2.2 Características
 
           p.mt-3 Las características fundamentales que diferencian a los servicios de los bienes y que debe tener en cuenta.
 
-      .i-general-3
+      .i-general-3.my-2
         div.div-gradient-3
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico7.png' alt="",style="width:70px; display:block; margin:auto 0;")
@@ -120,13 +120,13 @@
                   .h1i.text-center.mt-2 #[strong Elementos intangibles:]
                   p.mt-3.text-center se trata de mantener en buenas condiciones las instalaciones físicas, los equipos, contar con el personal adecuado y los materiales de comunicación que permitan acercarse al cliente.
 
-      #t_2_3.pb-5.h2 2.3 Tipos
+      #t_2_3.pb-2.h2 2.3 Tipos
       
       p.mt-3 No todos los clientes son iguales cada cliente es único y requiere un trato individualizado y personalizado  sin embargo si existen características comunes que permiten clasificarlos en distintos grupos. Se pueden clasificar por su origen, nacionalidad, idioma, edad, sexo, la actividad a la que se dedican, etc. No es una clasificación estricta pero ayuda para conocer sus necesidades y permitir tratarlo según sus expectativas, así como ampliar la oferta para ofrecer distintos servicios según su clasificación.
 
       .pb-2.h3.mt-5 2.3.1 Tipología según la personalidad
 
-      .i-general-4
+      .i-general-4.my-2
           .div.div-gradient-4
             .div.c-card-4
               img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img13.png' alt="",style="width:140px; display:block; margin:auto 0;")
@@ -162,7 +162,7 @@
           
       .pb-2.h3.mt-5 2.3.2 Tipología de actitudes
 
-      .i-general-4
+      .i-general-4.my-2
           .div.div-gradient-4
             .div.c-card-4
               img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img21.png' alt="",style="width:140px; display:block; margin:auto 0;")
@@ -190,7 +190,7 @@
 
       .pb-2.h3.mt-5 2.3.3 Tipología de clientes por el colectivo al que pertenecen
 
-      .i-general-4
+      .i-general-4.my-2
           .div.div-gradient-4
             .div.c-card-4
               img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/img27.png' alt="",style="width:110px; display:block; margin:auto 0;")
@@ -321,9 +321,9 @@
       p.mt-5 #[strong Protocolo empresarial]
       p.mt-3 La estructura organizacional establece los protocolos a utilizar en cada una de las áreas respaldando con manuales de funciones y procedimientos.
 
-      #t_2_6.pb-5.h2.mt-5 2.6 Cadena de valor
+      #t_2_6.pb-2.h2.mt-5 2.6 Cadena de valor
       
-      .row.justify-content-center.align-items-center.mt-5
+      .row.justify-content-center.align-items-center.my-3
             
                 .col
                     p Es una herramienta estratégica que se usa para analizar las actividades de una empresa, de esta manera identifica las fuentes para establecer una ventaja competitiva.  La empresa debe crear valor en los productos y servicios que ofrece a sus clientes.
@@ -335,7 +335,7 @@
                 .col-auto 
                     img.img-a(src="@/assets/curso/images/pages/ilustraciones/img31.png").img-fluid
 
-      #t_2_7.pb-5.h2.mt-5 2.7 Momentos de verdad
+      #t_2_7.pb-2.h2.mt-5 2.7 Momentos de verdad
       
       .row.justify-content-center.align-items-center
                 .col-auto
