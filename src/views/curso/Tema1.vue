@@ -141,27 +141,27 @@
         .i-general-1
           .div.div-gradient-2
             .div.c-card-2
-              img.img-a.mb-2(src='@/assets/curso/images/pages/ilustraciones/ico1.png' alt="",style="width:100px; display:block; margin:auto 0;").img-float
+              img.img-a.mb-2(src='@/assets/curso/images/pages/ilustraciones/ico1.png' alt="",style="width:100px; display:block; margin:auto 1rem;").img-float
               p.mt-4.p2 Algunas posibles situaciones, entre otras.
           .div.div-gradient-2 
             .div.c-card-2
-              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico2.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float 
+              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico2.png' alt="", style="width:100px; display:block; margin:auto 1rem;").img-float 
               p.mt-4.p2 Trato personalizado con el huésped
           .div.div-gradient-2
             .div.c-card-2
-              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico3.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float 
+              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico3.png' alt="", style="width:100px; display:block; margin:auto 1rem;").img-float 
               p.mt-3.p2.mt-2 Flexibilidad en los horarios de entrada y salida.
           .div.div-gradient-2
             .div.c-card-2
-              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico4.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float 
+              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico4.png' alt="", style="width:100px; display:block; margin:auto 1rem;").img-float 
               p.mt-4.p2 Ubicación del establecimiento y fácil reserva.
           .div.div-gradient-2
             .div.c-card-2
-              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico5.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float 
+              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico5.png' alt="", style="width:100px; display:block; margin:auto 1rem;").img-float 
               p.mt-3.p2 Salas de juntas para optimizar las reuniones de negocios.
           .div.div-gradient-2
             .div.c-card-2
-              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico6.png' alt="", style="width:100px; display:block; margin:auto 0;").img-float
+              img.img-a(src='@/assets/curso/images/pages/ilustraciones/ico6.png' alt="", style="width:100px; display:block; margin:auto 1rem;").img-float
               p.mt-3.p1 Conectividad inalámbrica o wifi.
         
         p.mt-2 El establecimiento siempre estará en disposición de cumplir los requerimientos pero dentro de medidas y políticas establecidas que permitan al huésped recibir lo que requiere y que al mismo tiempo no implique inversiones extraordinarias.
@@ -201,32 +201,32 @@
     .jumbotron-3.mt-5
       .row.justify-content-center.align-items-center
             .col
-                img.number(src='@/assets/curso/images/pages/ilustraciones/1.svg' alt="", style="width:30px; display:block; margin:auto 0;").img-float
+                img.number(src='@/assets/curso/images/pages/ilustraciones/1.svg' alt="", style="width:30px; display:block; margin:auto -2rem;").img-float
                 p.mt-4.text-center Si la reserva se confirma, se marca la casilla correspondiente (OK).
     .jumbotron-3.mt-3
       .row.justify-content-center.align-items-center
             .col
-                img(src='@/assets/curso/images/pages/ilustraciones/2.svg' alt="", style="width:30px; display:block; margin:auto 0;").img-float
+                img(src='@/assets/curso/images/pages/ilustraciones/2.svg' alt="", style="width:30px; display:block; margin:auto -2rem;").img-float
                 p.mt-2.text-center La experiencia recibiendo el servicio en áreas como reservas, recepción y dentro del mismo hotel sea sencilla, cómoda y rápida. También se puede hacer uso de la geolocalización para enviarles información o notificaciones sobre productos basados en el lugar donde se encuentre el cliente.
     .jumbotron-3.mt-3
       .row.justify-content-center.align-items-center
             .col
-                img(src='@/assets/curso/images/pages/ilustraciones/3.svg' alt="", style="width:30px; display:block; margin:auto 0;").img-float
+                img(src='@/assets/curso/images/pages/ilustraciones/3.svg' alt="", style="width:30px; display:block; margin:auto -2rem;").img-float
                 p.mt-3.text-center Los consumidores buscan marcas que se identifiquen con ellos de una manera emocional, que genere sentimientos con cualidades que les generen seguridad.  El toque personal ayuda al establecimiento a posicionarse.
     .jumbotron-3.mt-3
       .row.justify-content-center.align-items-center
             .col
-                img(src='@/assets/curso/images/pages/ilustraciones/4.svg' alt="", style="width:30px; display:block; margin:auto 0;").img-float
+                img(src='@/assets/curso/images/pages/ilustraciones/4.svg' alt="", style="width:30px; display:block; margin:auto -2rem;").img-float
                 p.mt-2.text-center La tecnología se ha vuelto universal y afecta directamente la hotelería en diversas formas, los turistas se sienten muy bien con la variedad que esta le ofrece como información instantánea, herramientas de compra, canales de venta, opciones de productos y variedad de precios.
     .jumbotron-3.mt-3
       .row.justify-content-center.align-items-center
             .col
-                img(src='@/assets/curso/images/pages/ilustraciones/5.svg' alt="", style="width:30px; display:block; margin:auto 0;").img-float
+                img(src='@/assets/curso/images/pages/ilustraciones/5.svg' alt="", style="width:30px; display:block; margin:auto -2rem;").img-float
                 p.mt-3.text-center Los hoteles tienen que ser creativos con las políticas de precios, no necesariamente bajando los precios sino ofreciendo valor añadido.
     .jumbotron-3.mt-3
       .row.justify-content-center.align-items-center
             .col
-                img(src='@/assets/curso/images/pages/ilustraciones/6.svg' alt="", style="width:30px; display:block; margin:auto 0;").img-float
+                img(src='@/assets/curso/images/pages/ilustraciones/6.svg' alt="", style="width:30px; display:block; margin:auto -2rem;").img-float
                 p.mt-3.text-center No se puede centrar en ofrecer un producto por las características específicas del cliente como su nivel cultural entre otros, sino enfocarlo a sus deseos y motivaciones concretas.      
 
     .jumbotron.mt-5

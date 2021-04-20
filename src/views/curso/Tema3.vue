@@ -240,29 +240,29 @@
       .jumbotron-6.mt-5
         .row.justify-content-center.align-items-center
               .col
-                  img.img-left(src="@/assets/curso/images/pages/ilustraciones/num1.png", alt="", style="width:80px").img-float
-                  img(src='@/assets/curso/images/pages/ilustraciones/ico29.png' alt="", style="width:90px; display:block; margin:auto 0;").img-float
+                  img.img-left(src="@/assets/curso/images/pages/ilustraciones/num1.png", alt="",style="width:80px; display:block; margin:auto -2rem;").img-float
+                  img(src='@/assets/curso/images/pages/ilustraciones/ico29.png' alt="", style="width:90px; display:block; margin:auto 4rem;").img-float
                   .h1i.text-center.mt-2 #[strong Resolver conflictos]
                   p.mt-3.text-center En ocasiones los clientes llaman porque necesitan resolver un conflicto, de nada sirve eludirlos porque los problemas no se solucionan solos y lo que puede generar es añadir un cliente enfadado.
       .jumbotron-6.mt-5
         .row.justify-content-center.align-items-center
               .col
-                  img.img-left(src="@/assets/curso/images/pages/ilustraciones/num2.png", alt="", style="width:80px").img-float
-                  img(src='@/assets/curso/images/pages/ilustraciones/ico30.png' alt="", style="width:80px; display:block; margin:auto 0;").img-float
+                  img.img-left(src="@/assets/curso/images/pages/ilustraciones/num2.png",alt="",style="width:80px; display:block; margin:auto -2rem;").img-float
+                  img(src='@/assets/curso/images/pages/ilustraciones/ico30.png' alt="", style="width:80px; display:block; margin:auto 4rem;").img-float
                   .h1i.text-center.mt-2 #[strong Discreción.]
                   p.mt-4.text-center  Se debe ser discreto y mantener la privacidad de los clientes, no escuchar conversaciones ajenas, ni divulgar conversaciones mantenidas con los clientes ya que se consideran privadas.
       .jumbotron-6.mt-5
         .row.justify-content-center.align-items-center
               .col
-                  img.img-left(src="@/assets/curso/images/pages/ilustraciones/num3.png", alt="", style="width:80px").img-float
-                  img(src='@/assets/curso/images/pages/ilustraciones/ico31.png' alt="", style="width:80px; display:block; margin:auto 0;").img-float
+                  img.img-left(src="@/assets/curso/images/pages/ilustraciones/num3.png", alt="",style="width:80px; display:block; margin:auto -2rem;").img-float
+                  img(src='@/assets/curso/images/pages/ilustraciones/ico31.png' alt="", style="width:80px; display:block; margin:auto 4rem;").img-float
                   .h1i.text-center.mt-2 #[strong Voz y lenguaje.]
                   p.mt-4.text-center La voz tiene que ser clara y sonriente, el lenguaje preciso y adaptado al cliente y expresarse con educación y simpatía.
       .jumbotron-6.mt-5
         .row.justify-content-center.align-items-center
               .col
-                  img.img-left(src="@/assets/curso/images/pages/ilustraciones/num4.png", alt="", style="width:80px").img-float
-                  img(src='@/assets/curso/images/pages/ilustraciones/ico32.png' alt="", style="width:80px; display:block; margin:auto 0;").img-float
+                  img.img-left(src="@/assets/curso/images/pages/ilustraciones/num4.png", alt="",style="width:80px; display:block; margin:auto -2rem;").img-float
+                  img(src='@/assets/curso/images/pages/ilustraciones/ico32.png' alt="", style="width:80px; display:block; margin:auto 5rem;").img-float
                   .h1i.text-center.mt-4 #[strong Reglas para el buen uso del teléfono.]
                   br
                   br
