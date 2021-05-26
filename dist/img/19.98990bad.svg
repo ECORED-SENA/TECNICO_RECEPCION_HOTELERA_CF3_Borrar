@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="59" viewBox="0 0 69 59">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_4538" data-name="Rectángulo 4538" width="69" height="59" transform="translate(772 5824)" fill="#f3f9ff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_16" data-name="Enmascarar grupo 16" transform="translate(-772 -5824)" clip-path="url(#clip-path)">
+    <g id="senal" transform="translate(777 5824)">
+      <path id="Trazado_2544" data-name="Trazado 2544" d="M27.765,30.938V34.88l.868.655.868-.829,1.157-1.735L29.5,31.235l-.713-.675Z" fill="#4a696f"/>
+      <path id="Trazado_2545" data-name="Trazado 2545" d="M30.29,30.56l-.79.675v3.471l.713.829,1.022-.655V30.938Z" fill="#384949"/>
+      <path id="Trazado_2546" data-name="Trazado 2546" d="M27.765,51.884v3.645H15.618V59H29.5l1.157-4.338-1.157-2.6L28.575,50.9Z" fill="#4a696f"/>
+      <path id="Trazado_2547" data-name="Trazado 2547" d="M43.382,55.529H31.235V51.884l-1.1-.722-.636.9V59H43.382Z" fill="#384949"/>
+      <path id="Trazado_2548" data-name="Trazado 2548" d="M17.353,26.029h3.471A8.686,8.686,0,0,1,29.5,17.353l1.157-1.735L29.5,13.882A12.161,12.161,0,0,0,17.353,26.029Z" fill="#fd9"/>
+      <path id="Trazado_2549" data-name="Trazado 2549" d="M38.176,26.029h3.471A12.161,12.161,0,0,0,29.5,13.882v3.471A8.686,8.686,0,0,1,38.176,26.029Z" fill="#fb3"/>
+      <path id="Trazado_2550" data-name="Trazado 2550" d="M10.412,26.029h3.471A15.635,15.635,0,0,1,29.5,10.412l1.157-1.735L29.5,6.941A19.11,19.11,0,0,0,10.412,26.029Z" fill="#fd9"/>
+      <path id="Trazado_2551" data-name="Trazado 2551" d="M45.118,26.029h3.471A19.11,19.11,0,0,0,29.5,6.941v3.471A15.635,15.635,0,0,1,45.118,26.029Z" fill="#fb3"/>
+      <path id="Trazado_2552" data-name="Trazado 2552" d="M3.471,26.029H6.941A22.584,22.584,0,0,1,29.5,3.471l1.157-1.735L29.5,0A26.019,26.019,0,0,0,3.471,26.029Z" fill="#fd9"/>
+      <path id="Trazado_2553" data-name="Trazado 2553" d="M52.059,26.029h3.471A26.019,26.019,0,0,0,29.5,0V3.471A22.584,22.584,0,0,1,52.059,26.029Z" fill="#fb3"/>
+      <path id="Trazado_2554" data-name="Trazado 2554" d="M25.821,29.709A5.19,5.19,0,0,0,29.5,31.235l1.157-4.049L29.5,20.824a5.206,5.206,0,0,0-3.679,8.885Z" fill="#ff8c53"/>
+      <path id="Trazado_2555" data-name="Trazado 2555" d="M34.706,26.029A5.212,5.212,0,0,0,29.5,20.824V31.235A5.212,5.212,0,0,0,34.706,26.029Z" fill="#ff4d4d"/>
+      <path id="Trazado_2556" data-name="Trazado 2556" d="M20.824,43.382l4.338,1.157L29.5,43.382l1.157-4.338L29.5,34.706A8.686,8.686,0,0,0,20.824,43.382Z" fill="#9bf"/>
+      <path id="Trazado_2557" data-name="Trazado 2557" d="M29.5,34.706v8.676l4.338,1.157,4.338-1.157A8.686,8.686,0,0,0,29.5,34.706Z" fill="#69f"/>
+      <path id="Trazado_2558" data-name="Trazado 2558" d="M20.824,43.382A8.686,8.686,0,0,0,29.5,52.059l1.157-4.338L29.5,43.382Z" fill="#69f"/>
+      <path id="Trazado_2559" data-name="Trazado 2559" d="M38.176,43.382H29.5v8.676A8.686,8.686,0,0,0,38.176,43.382Z" fill="#2c87f4"/>
+    </g>
+  </g>
+</svg>

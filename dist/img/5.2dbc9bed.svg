@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="167" viewBox="0 0 292 167">
+  <g id="Grupo_55674" data-name="Grupo 55674" transform="translate(-1116 -1643)">
+    <rect id="Rectángulo_4620" data-name="Rectángulo 4620" width="292" height="167" rx="10" transform="translate(1116 1643)" fill="#fff1db"/>
+    <text id="Carácter_perecedero." data-name="Carácter perecedero." transform="translate(1262 1786)" fill="#111e61" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-95.586" y="0">Carácter perecedero.</tspan></text>
+    <g id="dano" transform="translate(1222 1668)">
+      <path id="Trazado_2911" data-name="Trazado 2911" d="M60.906,316.688l-5.226,5.226-5.226-5.226-5.767,5.767,5.226,5.226-5.226,5.226,5.767,5.767,5.226-5.226,5.226,5.226,5.767-5.767-5.226-5.226,5.226-5.226Zm2.072,16.218-2.072,2.072-5.226-5.226-5.226,5.226-2.072-2.072,5.226-5.226-5.226-5.226,2.072-2.072,5.226,5.226,5.226-5.226,2.072,2.072-5.226,5.226Zm0,0" transform="translate(-37.39 -264.971)" fill="#ffb74d"/>
+      <path id="Trazado_2912" data-name="Trazado 2912" d="M81,11.45,75.275,0H18.789L13.064,11.45v1.9l6.444,14.175-5.44,17.409A18.324,18.324,0,1,0,34.79,54.871H81V50.952L74.547,27.544,81,13.348Zm-3.421-1h-21.4V2.613H73.66ZM48.338,18.29V20.9H45.725V18.29H43.113V20.9H40.5V13.065H53.564V20.9H50.951V18.29ZM40.5,10.452V2.613H53.564v7.839ZM20.4,2.613H37.887v7.839h-21.4ZM18.29,78.387A15.677,15.677,0,1,1,33.967,62.71,15.695,15.695,0,0,1,18.29,78.387Zm60.1-27.256v1.127H33.279A18.272,18.272,0,0,0,18.29,44.419c-.455,0-.9.035-1.347.068L22.3,27.348,15.806,13.065h22.08V23.516h18.29V13.065h22.08L71.775,27.327Zm0,0" fill="#ffb74d"/>
+      <path id="Trazado_2913" data-name="Trazado 2913" d="M320,237.065h20.9V224H320Zm2.613-10.452H338.29v7.839H322.613Zm0,0" transform="translate(-267.742 -187.419)" fill="#ffb74d"/>
+      <path id="Trazado_2914" data-name="Trazado 2914" d="M352,256h10.452v2.613H352Zm0,0" transform="translate(-294.516 -214.194)" fill="#ffb74d"/>
+    </g>
+  </g>
+</svg>
