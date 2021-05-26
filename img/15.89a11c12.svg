@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="0 0 77 77">
+  <g id="Page-1" transform="translate(0 0)">
+    <g id="_001---Accessibility" data-name="001---Accessibility" transform="translate(0)">
+      <circle id="Oval" cx="38.5" cy="38.5" r="38.5" transform="translate(0 0)" fill="#894b9d"/>
+      <circle id="Oval-2" data-name="Oval" cx="30.5" cy="30.5" r="30.5" transform="translate(8 8)" fill="#b49aca"/>
+      <path id="Shape" d="M61.064,18.66a45.612,45.612,0,0,0-42.4,42.4,30.385,30.385,0,1,1,42.4-42.4Z" transform="translate(1.928 2.286)" fill="#c3aed5"/>
+      <path id="Shape-2" data-name="Shape" d="M38.321,0a38.315,38.315,0,1,0,27.1,11.222A38.321,38.321,0,0,0,38.321,0Zm0,71.356A33.035,33.035,0,1,1,71.356,38.321,33.035,33.035,0,0,1,38.321,71.356Z" transform="translate(0 0.358)" fill="#955ba5"/>
+      <circle id="Oval-3" data-name="Oval" cx="6.5" cy="6.5" r="6.5" transform="translate(32 12)" fill="#894b9d"/>
+      <path id="Shape-3" data-name="Shape" d="M52.692,22.008,38.814,23.253q-.766.069-1.535.069H31.1q-.769,0-1.535-.069L15.692,22.008a2.643,2.643,0,0,0-.405,5.27L26.5,28.3a2.643,2.643,0,0,1,2.4,2.632v3.037a6.607,6.607,0,0,1-.457,2.415L22.068,52.63a2.643,2.643,0,1,0,4.82,2.169l6.1-14.818a1.3,1.3,0,0,1,1.2-.8h0a1.3,1.3,0,0,1,1.2.8L41.5,54.8a2.643,2.643,0,0,0,4.82-2.169l-6.381-16.25a6.607,6.607,0,0,1-.457-2.415V30.927a2.643,2.643,0,0,1,2.4-2.632L53.1,27.278a2.643,2.643,0,1,0-.405-5.27Z" transform="translate(4.129 7.428)" fill="#894b9d"/>
+    </g>
+  </g>
+</svg>
