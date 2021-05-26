@@ -1,0 +1,1 @@
+module.exports = 'TÉCNICO SERVICIO DE RECEPCIÓN HOTELERA'
